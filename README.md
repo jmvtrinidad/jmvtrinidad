@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jmvtrinidad
 - 👀 I’m interested in graphql, golang, JS, and use of XRP in fin
 <!-- - 🌱 I’m currently learning ... -->
-<!-- - 💞️ I’m looking to collaborate on ... -->?
+<!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
 
 <!---
