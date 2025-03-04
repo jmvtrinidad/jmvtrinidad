@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @jmvtrinidad
-- 👀 I’m interested in graphql, golang, JS, and use of XRP in fin
-<!-- - 🌱 I’m currently learning ... -->
-<!-- - 💞️ I’m looking to collaborate on ... -->
-<!-- - 📫 How to reach me ... -->
+**Senior Full-Stack Developer** & **Team Productivity Catalyst**
 
-<!---
-jmvtrinidad/jmvtrinidad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[💼 LinkedIn](https://linkedin.com/in/yourprofile) | 
+[🐦 X/Twitter](https://x.com/yourprofile)
+
+---
+
+## 🔥 Career Sparkline  
+**8+ years transforming enterprise tech** across finance 🏦, education 📚, and SaaS ☁️
+
+**Tech Arsenal:**  
+🛠️ **Frontend:** ReactJS | Remix/React Router | TypeScript | TailwindCSS 
+🌐 **Backend:** GraphQL Federation | Apollo | Java/Kotlin | Go | C# | MongoDB  
+☁️ **Platform:** GitHub Actions | Kubernetes | AWS/GCP | Rspack | Module Federation | Playwright
+
+---
+
+## 🏅 GitHub Stats
+![image](https://github.com/user-attachments/assets/97e13096-48ed-461b-8b5a-2c49786c1527)
+![image](https://github.com/user-attachments/assets/19c7e16b-8375-44af-92b2-654ae957ede4)
