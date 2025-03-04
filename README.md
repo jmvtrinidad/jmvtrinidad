@@ -1,7 +1,7 @@
 **Senior Full-Stack Developer** & **Team Productivity Catalyst**
 
-[💼 LinkedIn](https://linkedin.com/in/yourprofile) | 
-[🐦 X/Twitter](https://x.com/yourprofile)
+[💼 LinkedIn](https://linkedin.com/in/jmvtrinidad) | 
+[🐦 X/Twitter](https://x.com/jmvtrinidad)
 
 ---
 
